@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Task">
+	<test name="Automation Test" >
+		<classes>
+			<class name="tests.TestCases" />
+		</classes>
+	</test>
+</suite> 
